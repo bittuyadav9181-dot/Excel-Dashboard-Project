@@ -80,7 +80,7 @@ The dashboard helps identify:
 
 ## 📷 Dashboard Preview
 
-![Swiggy Dashboard](dashboard.png)
+![Swiggy Dashboard](https://github.com/bittuyadav9181-dot/Excel-Dashboard-Project/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
